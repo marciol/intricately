@@ -12,9 +12,11 @@
 
 local:
   ip_address: 0.0.0.0
+  hostnames: one, two
 
 loopback:
   ip_address: 127.0.0.1
+  hostnames: one, two
 
 google:
   ip_address: 8.8.8.8

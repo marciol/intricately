@@ -12,6 +12,8 @@
 
 one:
   name: local.one
+  dns_records: local, loopback
 
 two:
   name: local.two
+  dns_records: local, loopback
